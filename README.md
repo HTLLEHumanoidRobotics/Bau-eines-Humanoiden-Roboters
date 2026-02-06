@@ -1,4 +1,4 @@
-# Diplomarbeit_{2026/27}: {Bau eines Humanoiden Roboters}
+# Diplomarbeit_2026/27: Bau eines Humanoiden Roboters
 
 Hier kommit eine kurze Beschreibung Ihrer Diplomarbeit hin, damit die Besucher Ihres Repositories wissen worum es geht.
 
