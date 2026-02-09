@@ -10,24 +10,21 @@ assignees: ''
 ## 🖨️ Printing Issue Template
 
 ### 🔧 Teilinformationen
-- **Part Number:** A01  
-- **Part Name:** Face  
-- **Menge:** 1  
-- **Farbe:** Weiß  
+- **Part Number:**   
+- **Part Name:**   
+- **Menge:** 
+- **Farbe:**   
 
 ### ⏱️ Zeit
 - **Geplante Druckzeit:** ___ h ___ min  
 - **Tatsächliche Druckzeit:** ___ h ___ min  
 
 
-### 🔍 Beobachtungen
-- Zeitpunkt des Auftretens:  
-- Betroffene Stelle(n) am Bauteil:  
-- Sichtbare Symptome:  
+### 📒 Notizen 
+- 
 
 ### ⚙️ Druckeinstellungen (relevant)
 - Drucker:  
 - Material / Filament:  
 - Nozzle / Layerhöhe:  
-- Temperatur (Nozzle / Bed):  
 - Infill / Support:
