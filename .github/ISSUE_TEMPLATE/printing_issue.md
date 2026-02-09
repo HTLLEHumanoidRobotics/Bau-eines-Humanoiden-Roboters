@@ -7,40 +7,27 @@ assignees: ''
 
 ---
 
-🛠 Part Specifications
+## 🖨️ Printing Issue Template
 
-Part Number: [e.g., A01] 
+### 🔧 Teilinformationen
+- **Part Number:** A01  
+- **Part Name:** Face  
+- **Menge:** 1  
+- **Farbe:** Weiß  
 
-
-Part Name: [e.g., Face] 
-
-
-Quantity Required: [e.g., 1] 
-
-
-Expected Weight: [e.g., 320g] 
-
-
-Color Requirement: [e.g., White] 
+### ⏱️ Zeit
+- **Geplante Druckzeit:** ___ h ___ min  
+- **Tatsächliche Druckzeit:** ___ h ___ min  
 
 
-Category: (Head / Body / Arm / Hand) 
-+3
+### 🔍 Beobachtungen
+- Zeitpunkt des Auftretens:  
+- Betroffene Stelle(n) am Bauteil:  
+- Sichtbare Symptome:  
 
-⏱ Time Tracking
-
-Estimated Print Time: [e.g., 12h 20min] 
-
-Actual Print Time: (Enter time here after completion)
-
-Status: * [ ] Sliced
-
-[ ] Printing
-
-[ ] Post-Processing
-
-[ ] Completed
-
-STL File	(Attach .stl or link to repository file here)
-Print Video	(Upload your timelapse or print video here)
-Printer Used: - Filament Brand: - Notes: ---
+### ⚙️ Druckeinstellungen (relevant)
+- Drucker:  
+- Material / Filament:  
+- Nozzle / Layerhöhe:  
+- Temperatur (Nozzle / Bed):  
+- Infill / Support:
