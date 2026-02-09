@@ -44,10 +44,12 @@ This document tracks all 3D printed parts for the humanoid robot project.
 - ⏳ Planned: 0
 
 ### By Section
-- A-Head: 1/17 parts
+- A-Head: 1/17 parts (based on STL files in pib_stl/A-Head/)
 - B-Body: 0 parts
 - C-Arm: 0 parts
 - D-Hand&Finger: 0 parts
+
+**Note:** Part counts are based on the number of STL files in each section of the pib_stl directory.
 
 ---
 
