@@ -13,6 +13,10 @@ from pathlib import Path
 from typing import List, Dict
 
 
+# Constants
+STL_BASE_PATH = 'Files/Print/pib_stl'
+
+
 def parse_part_info(stl_path: str) -> Dict[str, str]:
     """
     Extract part information from STL file path.
@@ -76,7 +80,7 @@ def generate_issue_content(part_info: Dict[str, str]) -> str:
 - **Part Number:** {part_info['part_number']}
 - **Part Name:** {part_info['part_name']}
 - **Category:** {part_info['category']}
-- **STL File:** `Files/Print/pib_stl/{part_info['category']}/{part_info['filename']}`
+- **STL File:** `{STL_BASE_PATH}/{part_info['category']}/{part_info['filename']}`
 - **Menge:** 1
 - **Farbe:** 
 
@@ -115,7 +119,7 @@ def find_stl_files(base_path: str) -> List[str]:
         List of STL file paths
     """
     stl_files = []
-    print_path = Path(base_path) / 'Files' / 'Print' / 'pib_stl'
+    print_path = Path(base_path) / STL_BASE_PATH
     
     for root, dirs, files in os.walk(print_path):
         # Skip the 'Large print parts' and 'Logo' directories

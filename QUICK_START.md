@@ -70,29 +70,34 @@ For each of your 86 robot parts, you get an issue with:
 
 **Content:**
 ```markdown
-### 🔧 Part Information
+### 🔧 Teilinformationen
 - Part Number: A01
 - Part Name: Face
 - Category: Head
 - STL File: Files/Print/pib_stl/Head/A01-Face.stl
+- Menge: 1
+- Farbe: 
 
-### ⏱️ Time
-- Planned Print Time: ___ h ___ min
-- Actual Print Time: ___ h ___ min
+### ⏱️ Zeit
+- Geplante Druckzeit: ___ h ___ min
+- Tatsächliche Druckzeit: ___ h ___ min
 
-### ⚙️ Print Settings
-- Printer: 
+### 📒 Notizen
+- 
+
+### ⚙️ Druckeinstellungen (relevant)
+- Drucker: 
 - Material / Filament: 
-- Nozzle / Layer Height: 
+- Nozzle / Layerhöhe: 
 - Infill / Support:
 
-### ✅ Progress
-- [ ] STL verified
-- [ ] Slicing completed
-- [ ] Print started
-- [ ] Print completed
-- [ ] Quality control
-- [ ] Post-processing
+### ✅ Status
+- [ ] STL File überprüft
+- [ ] Slicing abgeschlossen
+- [ ] Druck gestartet
+- [ ] Druck abgeschlossen
+- [ ] Qualitätskontrolle
+- [ ] Nachbearbeitung (falls erforderlich)
 ```
 
 ## 📈 Benefits
