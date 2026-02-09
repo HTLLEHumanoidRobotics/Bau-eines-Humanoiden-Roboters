@@ -1,0 +1,741 @@
+{
+  "issues": [
+    {
+      "title": "Print: [A01]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A01\n- **Part Name:** Face\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A01-Face.stl`\n"
+    },
+    {
+      "title": "Print: [A02]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A02\n- **Part Name:** Face neck clamp\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A02-Face_neck_clamp.stl`\n"
+    },
+    {
+      "title": "Print: [A03]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A03\n- **Part Name:** Face-Plate\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A03-Face-Plate.stl`\n"
+    },
+    {
+      "title": "Print: [A04]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A04\n- **Part Name:** L-Head side left\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A04-L-Head_side_left.stl`\n"
+    },
+    {
+      "title": "Print: [A04]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A04\n- **Part Name:** R-Head side right\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A04-R-Head_side_right.stl`\n"
+    },
+    {
+      "title": "Print: [A05]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A05\n- **Part Name:** Mic-array mounting insert\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A05-Mic-array_mounting_insert.stl`\n"
+    },
+    {
+      "title": "Print: [A06]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A06\n- **Part Name:** Mic-array knob\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A06-Mic-array_knob.stl`\n"
+    },
+    {
+      "title": "Print: [A71]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A71\n- **Part Name:** Inner part\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A71-Inner_part.stl`\n"
+    },
+    {
+      "title": "Print: [A72]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A72\n- **Part Name:** Top part\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A72-Top_part.stl`\n"
+    },
+    {
+      "title": "Print: [A73]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A73\n- **Part Name:** Cover neck\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A73-Cover_neck.stl`\n"
+    },
+    {
+      "title": "Print: [A75]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A75\n- **Part Name:** L-Neck Left\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A75-L-Neck_Left.stl`\n"
+    },
+    {
+      "title": "Print: [A75]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A75\n- **Part Name:** R-Neck Right\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A75-R-Neck_Right.stl`\n"
+    },
+    {
+      "title": "Print: [A75]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A75\n- **Part Name:** Neck\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/Large print parts/A75-Neck.stl`\n"
+    },
+    {
+      "title": "Print: [A76]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A76\n- **Part Name:** Neck Middle\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A76-Neck_Middle.stl`\n"
+    },
+    {
+      "title": "Print: [A81]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A81\n- **Part Name:** Motor shaft\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A81-Motor_shaft.stl`\n"
+    },
+    {
+      "title": "Print: [A82]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A82\n- **Part Name:** Neck axis\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A82-Neck_axis.stl`\n"
+    },
+    {
+      "title": "Print: [A83]",
+      "labels": [
+        "printing",
+        "A-Head"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** A83\n- **Part Name:** Motor Adapter Neck\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/A-Head/A83-Motor_Adapter_Neck.stl`\n"
+    },
+    {
+      "title": "Print: [B19]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B19\n- **Part Name:** Flat stand\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B19-Flat_stand.stl`\n"
+    },
+    {
+      "title": "Print: [B19+B20]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B19+B20\n- **Part Name:** Flat stand\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/Large print parts/B19+B20-Flat_stand.stl`\n"
+    },
+    {
+      "title": "Print: [B20]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B20\n- **Part Name:** Flat stand2\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B20-Flat_stand2.stl`\n"
+    },
+    {
+      "title": "Print: [B25]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B25\n- **Part Name:** Wire connector\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B25-Wire_connector.stl`\n"
+    },
+    {
+      "title": "Print: [B26]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B26\n- **Part Name:** Wire connector pawl\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B26-Wire_connector_pawl.stl`\n"
+    },
+    {
+      "title": "Print: [B27]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B27\n- **Part Name:** Wire connector mount\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B27-Wire_connector_mount.stl`\n"
+    },
+    {
+      "title": "Print: [B31]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B31\n- **Part Name:** Wire connector pawl forearm\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B31-Wire_connector_pawl_forearm.stl`\n"
+    },
+    {
+      "title": "Print: [B41]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B41\n- **Part Name:** L-Clavicle Left\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B41-L-Clavicle_Left.stl`\n"
+    },
+    {
+      "title": "Print: [B41]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B41\n- **Part Name:** R-Clavicle Right\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B41-R-Clavicle_Right.stl`\n"
+    },
+    {
+      "title": "Print: [B41]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B41\n- **Part Name:** Clavicle\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/Large print parts/B41-Clavicle.stl`\n"
+    },
+    {
+      "title": "Print: [B42]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B42\n- **Part Name:** R-Ribcage Right\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B42-R-Ribcage_Right.stl`\n"
+    },
+    {
+      "title": "Print: [B42]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B42\n- **Part Name:** L-Ribcage Left\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B42-L-Ribcage_Left.stl`\n"
+    },
+    {
+      "title": "Print: [B42]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B42\n- **Part Name:** Ribcage\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/Large print parts/B42-Ribcage.stl`\n"
+    },
+    {
+      "title": "Print: [B43]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B43\n- **Part Name:** R-Ribcage Lower Right\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B43-R-Ribcage_Lower_Right.stl`\n"
+    },
+    {
+      "title": "Print: [B43]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B43\n- **Part Name:** L-Ribcage Lower Left\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B43-L-Ribcage_Lower_Left.stl`\n"
+    },
+    {
+      "title": "Print: [B43]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B43\n- **Part Name:** Ribcage Lower\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/Large print parts/B43-Ribcage_Lower.stl`\n"
+    },
+    {
+      "title": "Print: [B44]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B44\n- **Part Name:** Electronics back\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B44-Electronics_back.stl`\n"
+    },
+    {
+      "title": "Print: [B45]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B45\n- **Part Name:** Electronics base\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B45-Electronics_base.stl`\n"
+    },
+    {
+      "title": "Print: [B46]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B46\n- **Part Name:** Power back\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B46-Power_back.stl`\n"
+    },
+    {
+      "title": "Print: [B47]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B47\n- **Part Name:** Power Holder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B47-Power_Holder.stl`\n"
+    },
+    {
+      "title": "Print: [B48]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B48\n- **Part Name:** Hinge\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B48-Hinge.stl`\n"
+    },
+    {
+      "title": "Print: [B49]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B49\n- **Part Name:** Hinge Plate\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B49-Hinge_Plate.stl`\n"
+    },
+    {
+      "title": "Print: [B51]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B51\n- **Part Name:** Servo Array Scaffold\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B51-Servo_Array_Scaffold.stl`\n"
+    },
+    {
+      "title": "Print: [B55]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B55\n- **Part Name:** Logo edu\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/Logo/B55-Logo_edu.stl`\n"
+    },
+    {
+      "title": "Print: [B56]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B56\n- **Part Name:** Speaker spring\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B56-Speaker_spring.stl`\n"
+    },
+    {
+      "title": "Print: [B57]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B57\n- **Part Name:** Printed washer relay\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B57-Printed_washer_relay.stl`\n"
+    },
+    {
+      "title": "Print: [B58]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B58\n- **Part Name:** Button scaffold\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B58-Button_scaffold.stl`\n"
+    },
+    {
+      "title": "Print: [B59]",
+      "labels": [
+        "printing",
+        "B-Body"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** B59\n- **Part Name:** Tube-Connector\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/B-Body/B59-Tube-Connector.stl`\n"
+    },
+    {
+      "title": "Print: [C08]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C08\n- **Part Name:** Central rotator bracket\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C08-Central_rotator_bracket.stl`\n"
+    },
+    {
+      "title": "Print: [C09]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C09\n- **Part Name:** Central rotator connector\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C09-Central_rotator_connector.stl`\n"
+    },
+    {
+      "title": "Print: [C15]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C15\n- **Part Name:** Central rotator motor connector\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C15-Central_rotator_motor_connector.stl`\n"
+    },
+    {
+      "title": "Print: [C18]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C18\n- **Part Name:** Forearm distal lock\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C18-Forearm_distal_lock.stl`\n"
+    },
+    {
+      "title": "Print: [C19]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C19\n- **Part Name:** Forearm distal top\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C19-Forearm_distal_top.stl`\n"
+    },
+    {
+      "title": "Print: [C20]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C20\n- **Part Name:** Forearm cover\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C20-Forearm_cover.stl`\n"
+    },
+    {
+      "title": "Print: [C24]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C24\n- **Part Name:** Forearm tube enclosure\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C24-Forearm_tube_enclosure.stl`\n"
+    },
+    {
+      "title": "Print: [C31]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C31\n- **Part Name:** Elbow shaft motor\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C31-Elbow_shaft_motor.stl`\n"
+    },
+    {
+      "title": "Print: [C32]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C32\n- **Part Name:** Elbow axis cable\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C32-Elbow_axis_cable.stl`\n"
+    },
+    {
+      "title": "Print: [C33]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C33\n- **Part Name:** Elbow motor flange\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C33-Elbow_motor_flange.stl`\n"
+    },
+    {
+      "title": "Print: [C34]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C34\n- **Part Name:** Elbow motor connection\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C34-Elbow_motor_connection.stl`\n"
+    },
+    {
+      "title": "Print: [C35L]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C35L\n- **Part Name:** Elbow clamp left\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C35L-Elbow_clamp_left.stl`\n"
+    },
+    {
+      "title": "Print: [C35R]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C35R\n- **Part Name:** Elbow clamp right\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C35R-Elbow_clamp_right.stl`\n"
+    },
+    {
+      "title": "Print: [C36]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C36\n- **Part Name:** Elbow lower shell\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C36-Elbow_lower_shell.stl`\n"
+    },
+    {
+      "title": "Print: [C37]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C37\n- **Part Name:** Elbow rotator bracket\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C37-Elbow_rotator_bracket.stl`\n"
+    },
+    {
+      "title": "Print: [C38]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C38\n- **Part Name:** Elbow cover\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C38-Elbow_cover.stl`\n"
+    },
+    {
+      "title": "Print: [C39]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C39\n- **Part Name:** Elbow upper shell\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C39-Elbow_upper_shell.stl`\n"
+    },
+    {
+      "title": "Print: [C40]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C40\n- **Part Name:** Elbow upper shell lock\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C40-Elbow_upper_shell_lock.stl`\n"
+    },
+    {
+      "title": "Print: [C41]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C41\n- **Part Name:** Elbow central motor flange\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C41-Elbow_central_motor_flange.stl`\n"
+    },
+    {
+      "title": "Print: [C50]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C50\n- **Part Name:** Wrist Joint Connector\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C50-Wrist_Joint_Connector.stl`\n"
+    },
+    {
+      "title": "Print: [C60]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C60\n- **Part Name:** Flange Inner Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C60-Flange_Inner_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C61]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C61\n- **Part Name:** Motor Bracket Inner Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C61-Motor_Bracket_Inner_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C62]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C62\n- **Part Name:** Ringflange Inner Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C62-Ringflange_Inner_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C63]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C63\n- **Part Name:** Motor Axis Inner Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C63-Motor_Axis_Inner_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C64]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C64\n- **Part Name:** Motor Axis Cap Inner Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C64-Motor_Axis_Cap_Inner_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C65]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C65\n- **Part Name:** Bracket Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C65-Bracket_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C66]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C66\n- **Part Name:** Cap Front Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C66-Cap_Front_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C67]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C67\n- **Part Name:** Cap Back Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C67-Cap_Back_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C68]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C68\n- **Part Name:** Inner Ring Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C68-Inner_Ring_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C69]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C69\n- **Part Name:** Inner Part Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C69-Inner_Part_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C70]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C70\n- **Part Name:** Shell Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C70-Shell_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C72]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C72\n- **Part Name:** Plate Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C72-Plate_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C73]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C73\n- **Part Name:** Motor Bracket Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C73-Motor_Bracket_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [C74]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C74\n- **Part Name:** Wire holder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C74-Wire_holder.stl`\n"
+    },
+    {
+      "title": "Print: [C75]",
+      "labels": [
+        "printing",
+        "C-Arm"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** C75\n- **Part Name:** Front Bracket Outer Shoulder\n- **Menge:** 1\n- **Farbe:** Weiß\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/C-Arm/C75-Front_Bracket_Outer_Shoulder.stl`\n"
+    },
+    {
+      "title": "Print: [D01]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D01\n- **Part Name:** Palm left\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D01-Palm_left.stl`\n"
+    },
+    {
+      "title": "Print: [D02]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D02\n- **Part Name:** Palm right\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D02-Palm_right.stl`\n"
+    },
+    {
+      "title": "Print: [D05]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D05\n- **Part Name:** Finger proximal lower\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D05-Finger_proximal_lower.stl`\n"
+    },
+    {
+      "title": "Print: [D06]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D06\n- **Part Name:** Finger proximal bracket\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D06-Finger_proximal_bracket.stl`\n"
+    },
+    {
+      "title": "Print: [D07]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D07\n- **Part Name:** Finger proximal upper\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D07-Finger_proximal_upper.stl`\n"
+    },
+    {
+      "title": "Print: [D08]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D08\n- **Part Name:** Finger distal\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D08-Finger_distal.stl`\n"
+    },
+    {
+      "title": "Print: [D09]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D09\n- **Part Name:** Finger tip\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D09-Finger_tip.stl`\n"
+    },
+    {
+      "title": "Print: [D10]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D10\n- **Part Name:** Tube cover\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D10-Tube_cover.stl`\n"
+    },
+    {
+      "title": "Print: [D11]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D11\n- **Part Name:** Ballbearing enclosure\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D11-Ballbearing_enclosure.stl`\n"
+    },
+    {
+      "title": "Print: [D11]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D11\n- **Part Name:** R-Ballbearing enclosure right\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D11-R-Ballbearing_enclosure_right.stl`\n"
+    },
+    {
+      "title": "Print: [D13]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D13\n- **Part Name:** Thumb rotator\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D13-Thumb_rotator.stl`\n"
+    },
+    {
+      "title": "Print: [D13]",
+      "labels": [
+        "printing",
+        "D-Hand&Finger"
+      ],
+      "body": "## 🖨️ Printing Issue Template\n\n### 🔧 Teilinformationen\n- **Part Number:** D13\n- **Part Name:** R-Thumb rotator right\n- **Menge:** 1\n- **Farbe:** Schwarz\n\n### ⏱️ Zeit\n- **Geplante Druckzeit:** ___ h ___ min\n- **Tatsächliche Druckzeit:** ___ h ___ min\n\n### 📒 Notizen\n- \n\n### ⚙️ Druckeinstellungen (relevant)\n- Drucker:\n- Material / Filament:\n- Nozzle / Layerhöhe:\n- Infill / Support:\n\n---\n**File:** `pib_stl/D-Hand&Finger/D13-R-Thumb_rotator_right.stl`\n"
+    }
+  ],
+  "count": 92
+}

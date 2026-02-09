@@ -1,0 +1,93 @@
+part_number,part_name,category,color,quantity,file_path
+A01,Face,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A01-Face.stl
+A02,Face neck clamp,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A02-Face_neck_clamp.stl
+A03,Face-Plate,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A03-Face-Plate.stl
+A04,L-Head side left,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A04-L-Head_side_left.stl
+A04,R-Head side right,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A04-R-Head_side_right.stl
+A05,Mic-array mounting insert,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A05-Mic-array_mounting_insert.stl
+A06,Mic-array knob,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A06-Mic-array_knob.stl
+A71,Inner part,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A71-Inner_part.stl
+A72,Top part,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A72-Top_part.stl
+A73,Cover neck,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A73-Cover_neck.stl
+A75,L-Neck Left,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A75-L-Neck_Left.stl
+A75,R-Neck Right,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A75-R-Neck_Right.stl
+A75,Neck,A-Head (Face/Neck),Weiß,1,pib_stl/B-Body/Large print parts/A75-Neck.stl
+A76,Neck Middle,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A76-Neck_Middle.stl
+A81,Motor shaft,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A81-Motor_shaft.stl
+A82,Neck axis,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A82-Neck_axis.stl
+A83,Motor Adapter Neck,A-Head (Face/Neck),Weiß,1,pib_stl/A-Head/A83-Motor_Adapter_Neck.stl
+B19,Flat stand,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B19-Flat_stand.stl
+B19+B20,Flat stand,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/Large print parts/B19+B20-Flat_stand.stl
+B20,Flat stand2,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B20-Flat_stand2.stl
+B25,Wire connector,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B25-Wire_connector.stl
+B26,Wire connector pawl,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B26-Wire_connector_pawl.stl
+B27,Wire connector mount,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B27-Wire_connector_mount.stl
+B31,Wire connector pawl forearm,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B31-Wire_connector_pawl_forearm.stl
+B41,L-Clavicle Left,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B41-L-Clavicle_Left.stl
+B41,R-Clavicle Right,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B41-R-Clavicle_Right.stl
+B41,Clavicle,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/Large print parts/B41-Clavicle.stl
+B42,R-Ribcage Right,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B42-R-Ribcage_Right.stl
+B42,L-Ribcage Left,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B42-L-Ribcage_Left.stl
+B42,Ribcage,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/Large print parts/B42-Ribcage.stl
+B43,R-Ribcage Lower Right,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B43-R-Ribcage_Lower_Right.stl
+B43,L-Ribcage Lower Left,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B43-L-Ribcage_Lower_Left.stl
+B43,Ribcage Lower,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/Large print parts/B43-Ribcage_Lower.stl
+B44,Electronics back,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B44-Electronics_back.stl
+B45,Electronics base,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B45-Electronics_base.stl
+B46,Power back,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B46-Power_back.stl
+B47,Power Holder,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B47-Power_Holder.stl
+B48,Hinge,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B48-Hinge.stl
+B49,Hinge Plate,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B49-Hinge_Plate.stl
+B51,Servo Array Scaffold,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B51-Servo_Array_Scaffold.stl
+B55,Logo edu,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/Logo/B55-Logo_edu.stl
+B56,Speaker spring,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B56-Speaker_spring.stl
+B57,Printed washer relay,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B57-Printed_washer_relay.stl
+B58,Button scaffold,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B58-Button_scaffold.stl
+B59,Tube-Connector,B-Body (Ribcage),Weiß,1,pib_stl/B-Body/B59-Tube-Connector.stl
+C08,Central rotator bracket,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C08-Central_rotator_bracket.stl
+C09,Central rotator connector,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C09-Central_rotator_connector.stl
+C15,Central rotator motor connector,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C15-Central_rotator_motor_connector.stl
+C18,Forearm distal lock,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C18-Forearm_distal_lock.stl
+C19,Forearm distal top,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C19-Forearm_distal_top.stl
+C20,Forearm cover,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C20-Forearm_cover.stl
+C24,Forearm tube enclosure,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C24-Forearm_tube_enclosure.stl
+C31,Elbow shaft motor,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C31-Elbow_shaft_motor.stl
+C32,Elbow axis cable,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C32-Elbow_axis_cable.stl
+C33,Elbow motor flange,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C33-Elbow_motor_flange.stl
+C34,Elbow motor connection,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C34-Elbow_motor_connection.stl
+C35L,Elbow clamp left,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C35L-Elbow_clamp_left.stl
+C35R,Elbow clamp right,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C35R-Elbow_clamp_right.stl
+C36,Elbow lower shell,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C36-Elbow_lower_shell.stl
+C37,Elbow rotator bracket,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C37-Elbow_rotator_bracket.stl
+C38,Elbow cover,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C38-Elbow_cover.stl
+C39,Elbow upper shell,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C39-Elbow_upper_shell.stl
+C40,Elbow upper shell lock,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C40-Elbow_upper_shell_lock.stl
+C41,Elbow central motor flange,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C41-Elbow_central_motor_flange.stl
+C50,Wrist Joint Connector,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C50-Wrist_Joint_Connector.stl
+C60,Flange Inner Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C60-Flange_Inner_Shoulder.stl
+C61,Motor Bracket Inner Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C61-Motor_Bracket_Inner_Shoulder.stl
+C62,Ringflange Inner Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C62-Ringflange_Inner_Shoulder.stl
+C63,Motor Axis Inner Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C63-Motor_Axis_Inner_Shoulder.stl
+C64,Motor Axis Cap Inner Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C64-Motor_Axis_Cap_Inner_Shoulder.stl
+C65,Bracket Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C65-Bracket_Outer_Shoulder.stl
+C66,Cap Front Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C66-Cap_Front_Outer_Shoulder.stl
+C67,Cap Back Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C67-Cap_Back_Outer_Shoulder.stl
+C68,Inner Ring Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C68-Inner_Ring_Outer_Shoulder.stl
+C69,Inner Part Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C69-Inner_Part_Outer_Shoulder.stl
+C70,Shell Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C70-Shell_Outer_Shoulder.stl
+C72,Plate Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C72-Plate_Outer_Shoulder.stl
+C73,Motor Bracket Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C73-Motor_Bracket_Outer_Shoulder.stl
+C74,Wire holder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C74-Wire_holder.stl
+C75,Front Bracket Outer Shoulder,C-Arm (Shoulder/Elbow/Forearm),Weiß,1,pib_stl/C-Arm/C75-Front_Bracket_Outer_Shoulder.stl
+D01,Palm left,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D01-Palm_left.stl
+D02,Palm right,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D02-Palm_right.stl
+D05,Finger proximal lower,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D05-Finger_proximal_lower.stl
+D06,Finger proximal bracket,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D06-Finger_proximal_bracket.stl
+D07,Finger proximal upper,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D07-Finger_proximal_upper.stl
+D08,Finger distal,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D08-Finger_distal.stl
+D09,Finger tip,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D09-Finger_tip.stl
+D10,Tube cover,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D10-Tube_cover.stl
+D11,Ballbearing enclosure,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D11-Ballbearing_enclosure.stl
+D11,R-Ballbearing enclosure right,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D11-R-Ballbearing_enclosure_right.stl
+D13,Thumb rotator,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D13-Thumb_rotator.stl
+D13,R-Thumb rotator right,D-Hand&Finger,Schwarz,1,pib_stl/D-Hand&Finger/D13-R-Thumb_rotator_right.stl
