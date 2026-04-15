@@ -15,10 +15,7 @@ da-author:
   klasse: 4AHWIN
   thema: Bauen des LaTex Templates
   ki-tools:
-  - name: ChatGPT3.5
-    zweck: Informationsbeschaffung
-  - name: Midjourney
-    zweck: Künstlerische Illustration
+
 
 - vorname: André  
   nachname: Jerebitsch
@@ -34,6 +31,9 @@ da-betreuer:
 
 - paraffe: schr
   name: Ing. DI Dr. Christian Schindler
+
+  - paraffe: stse
+  name: Ing. Sebastian Steiner
 
 da-kurzfassung-de: Hier kommt eine deutsche Kurzfassung hin.
 
