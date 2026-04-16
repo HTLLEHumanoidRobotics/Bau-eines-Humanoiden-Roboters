@@ -1,4 +1,4 @@
-# Teilaufgabe Schüler Barodscheff
+# Teilaufgabe Schüler Jerebitsch
 \textauthor{Andre Jerebitsch}
 
 Dieses Kapitel wird oft auch als _Literaturrecherche_ bezeichnet. Da gehört alles rein was der __normale__ Leser braucht um den praktischen Ansatz zu verstehen. Das bedeutet Sie brauchen einen roten Faden !
