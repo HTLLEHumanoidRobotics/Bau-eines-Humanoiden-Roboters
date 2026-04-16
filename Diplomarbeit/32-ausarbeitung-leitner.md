@@ -1,4 +1,4 @@
-# Teilaufgabe Schüler Bravo
+# Teilaufgabe Schüler Leitner
 \textauthor{Nico Leitner}
 
 ## Theorie
