@@ -1,7 +1,13 @@
 # Teilaufgabe Schüler Jerebitsch
 \textauthor{Andre Jerebitsch}
 
-Dieses Kapitel wird oft auch als _Literaturrecherche_ bezeichnet. Da gehört alles rein was der __normale__ Leser braucht um den praktischen Ansatz zu verstehen. Das bedeutet Sie brauchen einen roten Faden !
+Aufbau(Fokus Elektronik)
+Ansteuerung der Motoren
+Ziele: 
+Das Erkennen von Objekten und das Greifen eines bestimmten Objekts anhand von Spracherkennung.
+Das schonende Greifen von Objekten, um diese nicht zu beschädigen.
+Das Greifen von Objekten und deren Transport zu einem bestimmten Ziel, das ebenfalls per Spracherkennung festgelegt wird.
+
 
 Das sind z.B: allgemeine Definitionen, Beschreibung von fachspezifischen Vorgehensweisen, Frameworks, Theorie zu verwendeten Algorithmen, besondere Umstände, ...
 
