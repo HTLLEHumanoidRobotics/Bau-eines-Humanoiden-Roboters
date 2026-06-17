@@ -1,33 +1,50 @@
 # Projekthandbuch
 \textauthor{Schueler XY}
 
+## Änderungsverzeichnis (Projekthandbuch)
+
+| Version | Datum | Status | Beschreibung der Änderung | Autor/in |
+| :--- | :--- | :--- | :--- | :--- |
+| **1.0** | 2026-06-17 | Freigegeben | **Erstveröffentlichung des Projekthandbuches** | [Leitner] |
+
+
 ## Entwicklungsplan
 
 ### Projektauftrag
 
-Hier beschreiben Sie die allgemeinen Informationen zu Ihrem Maturaprojekt. Hier beschreiben sie den Projektkontext, nämlich die Ausgangssituation und Problembeschreibung
-
+Gegenstand dieser Diplomarbeit ist der Aufbau und die Inbetriebnahme des humanoiden Roboters Pib (Printable Intelligent Bot). Unter der Inbetriebnahme wird die softwareseitige Einbindung (über das Robot Operating System - kurz ROS) und physische Ansteuerung der entwickelten Schnittstellen im Rahmen der Steuerungseinheit verstanden. Denn der bereits bestehende Humanoide Roboter an der HTL Leoben namens Pepper wird seitens der Hersteller nicht mehr mit Updates versorgt und ist damit End of Service und soll im Rahmen dieser Arbeit ersetzt werden.
 
 #### Projektziele
+
+Aufbau und Zusammensetzung der Hardwarekomponenten
+Aufsetzen der Software von Pib
+Ansteurung der Motorik
+Erstellung von bis zu 4 Unterrichtseinheiten (Laborblock) in denen die Grundlegenden Prinzipien hinter Pib verdeutlicht werden
+Marketing optional
+++++++
 
 Das Projektziel beschreibt den erwünschten Zustand (Sollzustand) nach dem erfolgreichen Abschluss des Projektes. Das Ziel wird wohlbedacht formuliert und durch aktives Handeln aller Projektbeteiligten erreicht. Projektziele sollten gemeinsam mit allen Projektbeteiligten erarbeitet werden.
 
 #### Nicht-Ziele bzw. nicht Inhalte
 
+Eigener Logo Entwurf auf Pibs Körper -> Einbindung Schüler + Contest (Ziel persönlicher Bezug einbindung zukünftige Jahrgänge)
+
+
 Nicht-Ziele sind aus mehreren Gründen wichtig. Erstens helfen sie beim Erwartungsmanagement. Zweitens schaffen sie Klarheit darüber, was erledigt werden soll. Und drittens erhöhen Nicht-Ziele die Transparenz. Denn wenn man schon früh im Projekt explizit die Bereiche definiert, die das Projekt nicht bearbeiten soll, kann dadurch eine Diskussion über genau diese Randbereiche entstehen. 
 
 #### Projektnutzen
+
+Neuer Humanoider Roboter der für Zukünftige Lehreinheiten, Diplomarbeiten und vor allem auch für ein Herzeigeprojekt der HTL Leoben als eine von momentan 11 Schulen Österreichs die pib als Humanoiden Open Source Roboter besitzen. 
 
 Wie soll ein Außenstehender ein Projekt genehmigen, wenn nicht klar formuliert ist, WARUM das Projekt überhaupt durchgeführt werden soll? Auch hier ist es wichtig, möglichst konkret zu werden. Einen Projektnutzen z.B. mit „neueste Technik“ zu bezeichnen, ist nicht ausreichend.
 
 #### Projektauftraggeber/in
 
-Hier beschreiben Sie wer der Projektauftraggeber ist. Falls es eine externe Firma ist können Sie hier eine kurze Beschreibung des Unternehmens (sofern Projektrelevant) einfügen.
+HTL Leoben
 
 #### Projekttermine
 
 Welche Termine sind Fixtermine und was sollte an diesen Terminen stattfinden ? Beispiele hierfür sind z.B: Präsentationen, Projektende, Zwischenabgaben, fest eingeplante Besprechungen / Reviews (die auch Projektrelevant sind) die auf keinen Fall vergessen werden dürfen
-
 
 
 | Termin     | Inhalt                          |
@@ -49,7 +66,7 @@ Welche Termine sind Fixtermine und was sollte an diesen Terminen stattfinden ? B
 
 #### Projektkosten
 
-Hier dokumentieren Sie welche Kosten fallen Für Ihr Projekt an und wer kommt für diese Kosten auf ?
+Alle angeführten Material-Kosten werden von der HTL Leoben gedeckt und Bereitgestellt um den Ablauf dieser Diplomarbeit zu gewährleisten
 
 | Meilenstein  | Kostenart | Menge  | Preis   | Gesamtkosten | Deckung durch |
 |:-------------|:---------:|:------:|--------:|-------------:|---------------|
@@ -74,7 +91,8 @@ Hier ein Beispiel:
 
 | Risiko         | EW  | Auswirkungen     | Maßnahmen     |
 |:--------------:|:---:| :----------------|:--------------|
-| Überziehen der Kosten | 15% | Erhöhte Kosten für Schüler | Budgetierung |
+| Fehldruck beim 3D Print | 5-10% | Neuer Druck, erhöhter Filament und Energieverbrauch, Zeit Plan/Ist Abweichungen | Regelmäßige Wartung des 3D Druckers |
+| 3D Drucker fällt aus | 20% | Zeitliche Abweichung für den Druck | Problemquelle Fixen, Mehr Auslastung auf anderen 3D Drucker |
 | Ungenaue Schätzungen | 30% | Ungenaue Schätzungen führen zu Problem bezüglich Terminen und Budget. | Schätzungen mit Fachkollegen absprechen|
 | Verzögerungen beim Aufbau von Hard- und Software | 10% | Prototyp wird nicht rechtzeitig zur Endpräsentation fertig | Früh genug anfangen |
 
@@ -87,9 +105,8 @@ Hier wird definiert wer (welche Personen) an diesem Projekt beteiligt im Prinzip
 
 | Vorname     | Nachname     | Organisation | Kontaktinfos      |
 |:------------|:-------------|:-------------|:------------------|
-| Joltawan    | Barodscheff  | HTL Leoben   | jb@htl-leoben.at  |
-| Frank       | Borland      | Firma XY     | frank@borla.nd    |
-| ...         | ...          | ...          | ...               |
+| André       | Jerebitsch   | HTL Leoben   | 220062@o365.htl-leoben.at  |
+| Nico        | Leitner      | HTL Leoben   | 220086@o365.htl-leoben.at  |
 
 : Projektbeteiligte
 
@@ -101,10 +118,9 @@ Hier werden den Kontakten von oben konkrete Rollen zuewiesen.
 
 | Projektrolle           | Rollenbeschreibung     | Name              |
 |------------------------|------------------------|-------------------|
-| Projektleiter | Verantwortlicher für Einhaltung des Projektrahmens | Joltawan Barodscheff |
-| Auftraggeber | Auftraggeber der internen Diplomarbeit | Frank Borland |
+| Projektleiter | Verantwortlicher für Einhaltung des Projektrahmens | Nico Leitner |
+| Auftraggeber | Auftraggeber der internen Diplomarbeit | HTL Leoben |
 | Betreuer | Schulischer Betreuer | G. Hutter |
-| Betreuer | Schulischer Betreuer | A. Poetscher |
 
 : Projektrollen
 
@@ -116,9 +132,9 @@ Gerne können Sie hier auch noch zusätzlich eine Grafik oder ein Organisationsd
 
 Hier dokumentieren sie betreffend des Meilensteinplans oder der Anwendungsfälle: 
 
-* Wer wird informiert, 
-* wer muss zustimmen, 
-* wo werden die Änderungen wie vermerkt?
+* Wer wird informiert, -> G. Hutter bzw Nebenbeträuer & Schulleitung
+* wer muss zustimmen, -> G. Hutter bzw Nebenbeträuer & Schulleitung
+* wo werden die Änderungen wie vermerkt? -> Projekthandbuch mit Änderungsverzeichnis bzw Eigene Notizen in Github
 
 Das dient in erster Linie dazu um ein einheitliches Vorgehen definiert zu haben.
 
@@ -138,49 +154,48 @@ Meilensteine verlaufen nie über eine Zeitdauer. Nie. Sie sind lediglich Entsche
 
 Hier ein Beispiel wie die Meilensteine im Fall einer aussehen können
 
-### 2020-09-15: Projektmanagement abgeschlossen
+### 1. 2026-09-30: Software-Fundament eingerichtet
 
-- Projekthandbuch ist fertig
-- Serverinfrastruktur ist hergestellt
-- Bestellungen sind abgessendet
+- 1.a Basis-Software für den pib (Betriebssystem und Kern-Pakete) ist aufgesetzt
+- 1.b ROS-Umgebung (Robot Operating System) ist erfolgreich initialisiert
+- 1.c Erste Verbindungstests zum Steuerungsboard sind positiv verlaufen
 
-### 2020-11-01: Genehmigung der DA
+### 2. 2026-11-10: Kopf & Nacken aufgebaut und kalibriert
 
-- Einreichen des Antrags durch die Schüler/innen
-- DA Dokumentation wurde ausgefüllt und unterschrieben
+- 2.a Alle 3D-Druckteile für das Gehäuse des Kopfes und die Nackenmechanik sind gedruckt sowie die Elektronikkomponenten geliefert
+- 2.b Mechanischer Aufbau des Kopfes sowie der Nackenmechanik ist abgeschlossen
+- 2.c Erste Inbetriebnahme der Servomotoren im Kopfsegment ist erfolgt
+- 2.d Kalibrierung der Motoren für die Blick- und Kopfbewegungen ist erfolgreich durchgeführt
 
-### 2020-11-26: Literaturrecherche abgeschlossen
+### 3. 2026-12-20: Oberkörper montiert
 
-- Literatur zum Thema XY gesucht und in bibtex vermerkt
-- Aktellen Stand der Forschung erhoben
-- Verschriftlichung des Literaturteils begonnen 
+- 3.a Die großformatigen Gehäuseteile und inneren Skelett-Strukturen für den Torso sind vollständig gedruckt und einsatzbereit
+- 3.b Mechanischer Zusammenbau des Torsos ist abgeschlossen
+- 3.c Die stabile Trägerplattform für die Aufnahme von Kopf und Armen ist fertiggestellt
 
-### 2020-12-17: Prototyp ist funktionell
+### 4. 2027-02-05: Hand & Unterarm montiert
 
-- DB mit Tabelle für Benutzer.
-- DB Kommunikation zur Anwendung (inkl. Dokumentation)
-- Es gibt in der Anwendung einen /Admin/ Benutzer. Dieser Benutzer kann weitere Benutzer in den Rollen /Lehrende/ und bzw. oder /Studierende/ anlegen.
-      
-### 2021-01-10: Applikation fertiggestellt
+- 4.a Alle filigranen Fingerglieder, Handflächen- und Unterarm-Strukturen sind fertig gedruckt sowie Sehnen und Motoren bereitgestellt
+- 4.b Die einzelnen pib-Finger sind zusammengebaut und funktionell getestet
+- 4.c Die Handkonstruktion ist fertiggestellt
+- 4.d Der Unterarm ist mechanisch aufgebaut und mit der Hand zusammengeführt
 
-- Lehrende sind dazu in der Lage Tests anzulegen.
-- Studenten können einen ihnen zugewiesenen Test absolvieren.
+### 5. 2027-03-20: Schulter & Ellbogen aufgebaut
 
-### 2021-01-10: Review und Überarbeitung fertig
+- 5.a Alle 3D-Druckteile für die Schultergelenke, das Ellbogenschnittstellen-Gehäuse und alle Verbindungselemente sind fertig ausgedruckt
+- 5.b Mehrachsige Schultergelenke (vertikal und horizontal) sind vollständig montiert
+- 5.c Das Ellbogengelenk ist mechanisch aufgebaut
+- 5.d Sämtliche Armsegmente sind mechanisch miteinander verbunden
 
-- Der Quellcode ist gemeinsam mit den Projektpartnern reviewt
-- Quellcodedokumentation abgeschlossen (Javadoc)
-- Projekt baut auf eigenem Buildserver (Continous Integration)
+### 6. 2027-05-01: Endmontage (Final Assembly) abgeschlossen
 
-### 2021-02-03: Diploarbeit fertig verschriftlicht 
+- 6.a Alle Hauptbaugruppen (Kopf, Arme und Oberkörper) sind fest miteinander verbunden
+- 6.b Die komplette Verkabelung und Elektronik ist im Gehäuse sicher verlegt
+- 6.c Der physische Bau des humanoiden Roboters pib ist vollständig abgeschlossen
 
-- Stilfehler sind behoben
-- DA Dokumentationsblatt ist unterschrieben, eingescannt und im Hauptdokument enthalten 
-- Praxisteil ist ebgeschlossen und verschriftlicht
-- Informationen sind im DA Portal eingegeben
-- Unterschriebene DA Betreuungsprotokolle sind in der DA enthalten
-- DA liegt dem Betreuer in ausgedruckter Form vor
-    
+### 7. Eigene Meilensteine
+
+
 
 ## Anwendungsfälle
 
