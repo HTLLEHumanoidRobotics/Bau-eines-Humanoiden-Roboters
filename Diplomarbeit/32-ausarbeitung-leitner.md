@@ -6,6 +6,7 @@ Ausarbeitung von Möglichkeiten mit Pib - Software Architektur
 Anbindung von Pib an ROS
 
 Ausarbeitung der Unterrichtseinheiten 3 und 4
+Videoquelle basis: https://youtu.be/M2DKrH8hOW0?si=Vc0hVFCI5YWf1BUG (19.06.2026)
 Momentan ist die HTL eine von 7 Schulen österreichs mit Pib
 
 ## Theorie
