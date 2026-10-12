@@ -13,7 +13,7 @@ da-author:
 - vorname: Nico Andreas Johann
   nachname: Leitner
   klasse: 4AHWIN
-  thema: Bauen des LaTex Templates
+  thema: Auf / Zusammenbau der Hardware, Einführung in Pib
   ki-tools: 
   - name: Github Copilot
     zweck: Readme status vergleiche, Issue verwaltung
@@ -22,7 +22,7 @@ da-author:
 - vorname: André  
   nachname: Jerebitsch
   klasse: 4AHWIN
-  thema: Entwicklung eines Prototypen
+  thema: Motorsteuerung für Bewegungen und Greifen sowie Erstellung von Unterrichts / Praxisbeispielen mit dem Roboter pib.
   ki-tools:
   - name: Github Copilot
     zweck: Boilerplate codegenerierung, Codedokumentation
