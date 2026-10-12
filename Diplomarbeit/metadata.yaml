@@ -14,7 +14,9 @@ da-author:
   nachname: Leitner
   klasse: 4AHWIN
   thema: Bauen des LaTex Templates
-  ki-tools:
+  ki-tools: 
+  - name: Github Copilot
+    zweck: Readme status vergleiche, Issue verwaltung
 
 
 - vorname: André  
