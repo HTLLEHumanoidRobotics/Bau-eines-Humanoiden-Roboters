@@ -1,11 +1,12 @@
 # Projekthandbuch
-\textauthor{Schueler XY}
+\textauthor{Leitner Nico}
 
 ## Änderungsverzeichnis (Projekthandbuch)
 
 | Version | Datum | Status | Beschreibung der Änderung | Autor/in |
 | :--- | :--- | :--- | :--- | :--- |
 | **1.0** | 2026-06-17 | Freigegeben | **Erstveröffentlichung des Projekthandbuches** | [Leitner] |
+| **1.1** | 2026-10-30 | Freigegeben | **Finalisierung und Klarere Formulierungen zu neuen Zielen** | [Leitner] |
 
 
 ## Entwicklungsplan
@@ -20,17 +21,12 @@ Aufbau und Zusammensetzung der Hardwarekomponenten
 Aufsetzen der Software von Pib
 Ansteurung der Motorik
 Erstellung von bis zu 4 Unterrichtseinheiten (Laborblock) in denen die Grundlegenden Prinzipien hinter Pib verdeutlicht werden
-Marketing optional
 ++++++
-
-Das Projektziel beschreibt den erwünschten Zustand (Sollzustand) nach dem erfolgreichen Abschluss des Projektes. Das Ziel wird wohlbedacht formuliert und durch aktives Handeln aller Projektbeteiligten erreicht. Projektziele sollten gemeinsam mit allen Projektbeteiligten erarbeitet werden.
 
 #### Nicht-Ziele bzw. nicht Inhalte
 
-Eigener Logo Entwurf auf Pibs Körper -> Einbindung Schüler + Contest (Ziel persönlicher Bezug einbindung zukünftige Jahrgänge)
-
-
-Nicht-Ziele sind aus mehreren Gründen wichtig. Erstens helfen sie beim Erwartungsmanagement. Zweitens schaffen sie Klarheit darüber, was erledigt werden soll. Und drittens erhöhen Nicht-Ziele die Transparenz. Denn wenn man schon früh im Projekt explizit die Bereiche definiert, die das Projekt nicht bearbeiten soll, kann dadurch eine Diskussion über genau diese Randbereiche entstehen. 
+Eigener Logo Entwurf auf Pibs Körper
+Upgrade auf Neuversion von PIB
 
 #### Projektnutzen
 
@@ -101,12 +97,11 @@ Hier ein Beispiel:
 ### Projektorganisation
 
 #### Projektbeteiligte
-Hier wird definiert wer (welche Personen) an diesem Projekt beteiligt im Prinzip beteiligt ist.
 
 | Vorname     | Nachname     | Organisation | Kontaktinfos      |
 |:------------|:-------------|:-------------|:------------------|
 | André       | Jerebitsch   | HTL Leoben   | 220062@o365.htl-leoben.at  |
-| Nico        | Leitner      | HTL Leoben   | 220086@o365.htl-leoben.at  |
+| Nico        | Leitner      | HTL Leoben   | 220086@o365.htl-leoben.at, +436766662903  |
 
 : Projektbeteiligte
 
@@ -139,20 +134,6 @@ Hier dokumentieren sie betreffend des Meilensteinplans oder der Anwendungsfälle
 Das dient in erster Linie dazu um ein einheitliches Vorgehen definiert zu haben.
 
 ## Meilensteine
-
-Der Begriff taucht im Projektmanagement sehr häufig auf. Meilensteine sind wichtige Punkte im Projektverlauf. Oft werden sie auch als Prüfpunkte bezeichnet.
-
-Generell kann ein Meilenstein ein Ereignis sein, an dem
-
-* etwas abgeschlossen ist,
-* etwas begonnen wird oder
-* über die weitere Vorgehensweise entschieden wird
-
-Meilensteine werden meist am Ende von Projektphasen definiert. Auch innerhalb von Phasen kann es zusätzliche Meilensteine geben.
-
-Meilensteine verlaufen nie über eine Zeitdauer. Nie. Sie sind lediglich Entscheidungspunkte
-
-Hier ein Beispiel wie die Meilensteine im Fall einer aussehen können
 
 ### 1. 2026-09-30: Software-Fundament eingerichtet
 
