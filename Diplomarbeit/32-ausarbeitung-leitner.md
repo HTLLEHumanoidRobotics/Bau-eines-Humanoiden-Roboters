@@ -15,7 +15,62 @@ Dieses Kapitel wird oft auch als _Literaturrecherche_ bezeichnet. Da gehört all
 
 Das sind z.B: allgemeine Definitionen, Beschreibung von fachspezifischen Vorgehensweisen, Frameworks, Theorie zu verwendeten Algorithmen, besondere Umstände, ...
 
+### Was ist PIB
+Kurzes Kapitel über den nutzen von PIB kurzer Anschnitt der Oberflächen und Backgrounds (Plattform TRYB). Welche Version wir haben wie frühere Versionswechsel aussahen und wie Bauteile ausgetauscht werden können.
+
+#### Das Unternehmen dahinter: Insento
+Ausschnitte aus der Firmen Herkunft, Gründung und Historie, Ziel Orientierung und Anschnitt des beigesessenen Seminars
+
+#### Die Bausteine auf denen PIB aufbaut 
+Hier werden die Einzelnen Bauteile PIBs Kurz erklärt mit eigener Überschrift über die Sensoren und deren Möglichkeiten. Darunter auch der Rasbpi der verbaut ist
+
+#### Die Technik dahinter
+Eng verbunden mit den Bausteinen Eventuell werden diese auch zusammengelegt. Hier soll die Software Architektur vorgetragen werden. *ROS* Fokus, Tinkerforge, Cerebra all diese Begriffe bekommen ein Kapitel
+
+#### Zusammenspiel Hardware und Software
+Ausschnitte aus Literaturquellen, Humanoide Robotik, Motoransteuerung, PID Control, Sensorik, (Eventuell Kapitel zu Machine Learning)
+
+##### Programmiersprachen die für PIB verwendet werden könnnen
+
+### Humanoide Robotik, Einsatzorte und Zukünftige Errungenschaften
+Hier wird rein theoretisch mit Fakten der Momentane Stand aufgeklärt auch mit Ausschnitten aus dem Robotik Kongress in Graz, Weltweite verteilung und Problemstellen, Benutzte und Unbenutze fachgebiete
+Danach wird eine persönliche Meinung und eigene Punkte angemerkt
+
+### Wie man PIB als Lehrmaterial einsetzen kann
+Aufbau auf Pib Academy, Einbindung in Unterricht etc
+
+
+
 ## Praktische Arbeit
+
+### Projektmanagement
+Hier wird über das Management gesprochen was lief gut unser Ansatz die Riesigen Druckmengen zu bewältigen und wie man es hätte verbessern können. Problemstellen
+Projekthandbuch wird angeredet wie sich die Reise verändert hat mit Ursprungsversion
+Wie wir es tatsächlich umgesetzt haben Github Project Board mit Einsicht 
+
+
+### Drucken der 3D Druck Teile
+Kritik der Website, Umsetzung mit verwendeter Software und Quellen (Bambulab H2S + Software, CAD Programm, Print Checklist, Materiallist und Print Settings -> Onshape )
+Ungefähre auflistung der fertigen Teilaufgaben und Milestones
+
+
+### Zusammensetzung der Druckteile mit Nicht Druckbaren Teilen
+Anleitungen, Positives, Motoren und Kalibrierung, (Milestones bekommen unterkapitel)
+
+
+### Testen der Funktionen mit Basis Software und TRYB
+
+#### TRYB und Cerebra im Überblick
+
+##### Schreiben eigener Programme über Cerebra/Python Notebooks
+
+
+
+
+
+
+
+
 
 Hier beschreiben Sie ihren praktischen Teil. Es geht darum seine Implementierung / Versuche so darzustellen dass anhand dieser dre Leser erkennen kann was sie wie gemacht haben.
 
