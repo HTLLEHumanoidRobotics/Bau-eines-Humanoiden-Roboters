@@ -17,46 +17,96 @@ Das sind z.B: allgemeine Definitionen, Beschreibung von fachspezifischen Vorgehe
 
 Die Frage nach der Detailgenauigkeit lässt sich wie folgt beantworten: So, dass man Ihre Aufgabenstellung vollständig  nachvollziehen kann wenn man nur diese Diplomarbeit in Händen hat!
 
-### Messergebnisse
+## Theorie
 
-![Ein PNG Bild\label{fig:png_bild}](img/graph.png){width=70%} 
+### Was ist PIB?
 
-Bilder sind so scharf wie möglich darzustellen. Unnötige Dinge (welche für den Leser keine Information liefern) sind wegzuschneiden. Üblicherweise versucht das Framework Bilder möglichst gut und vollflächig in die Seite einzupassen - was aber speziell bei kleinen Bildern keinen Sinn macht. Daher kann man die Breite des Bildes `{width=xx%}` beeinflussen. Generell macht es keinen Sinn reisen Bilder mit dieser Funktion niederzuskalieren, sondern eher die Bilder schon vorher mittels eines Bildbearbeitungsprogrammes niederzurechnen. Damit wird das endgültige PDF nicht so groß.
+In diesem Kapitel wird der humanoide Roboter PIB vorgestellt. Dabei werden sein grundlegender Aufbau, seine Funktionsweise und seine Einsatzmöglichkeiten erklärt.
 
-### Etwas Fliesstext
+### Elektronische Komponenten von PIB
 
-We'll put some happy little leaves here and there. Poor old tree. Have fun with it. Isn't that fantastic? You can just push a little tree out of your brush like that.
+Hier werden die wichtigsten elektronischen Bauteile des Roboters beschrieben. Dazu gehören die Steuerungseinheit, die Motoren, die Motortreiber, die Sensoren und die Stromversorgung.
 
-Making all those little fluffies that live in the clouds. If there's two big trees invariably sooner or later there's gonna be a little tree. There is no right or wrong - as long as it makes you happy and doesn't hurt anyone. Use absolutely no pressure. Just like an angel's wing. This is the time to get out all your flustrations, much better than kicking the dog around the house or taking it out on your spouse. I guess I'm a little weird. I like to talk to trees and animals. That's okay though; I have more fun than most people.
+#### Steuerungseinheit und Raspberry Pi
 
-\todo{Noch weitere Infos einholen}
+Hier wird die zentrale Steuerungseinheit vorgestellt und erklärt, welche Aufgaben sie bei der Verarbeitung und Weiterleitung von Befehlen übernimmt.
 
-Do an almighty painting with us. Learn when to stop. Absolutely no pressure. You are just a whisper floating across a mountain. As trees get older they lose their chlorophyll. Clouds are free. They just float around the sky all day and have fun.
+#### Motoren und Motortreiber
 
-Now a hierarchical tree from this repo:
+In diesem Kapitel werden die verwendeten Motoren und deren Ansteuerung durch elektronische Motortreiber erklärt.
 
-\dirtree{%
-.1 ./.
-.2 example.
-.3 ....
-.2 style.
-.3 ....
-.2 tools.
-.3 docker.
-.3 github.
-.2 Jenkinsfile.
-.2 Makefile.
-.2 REAMDE.md.
-}
+### Grundlagen der Elektrotechnik
 
-A fan brush can be your best friend. Sometimes you learn more from your mistakes than you do from your masterpieces. You can bend rivers. But when I get home, the only thing I have power over is the garbage. Don't kill all your dark areas - you need them to show the light. There's nothing wrong with having a tree as a friend.
+Hier werden die wichtigsten Grundlagen wie Spannung, Stromstärke und elektrische Leistung behandelt. Außerdem werden die Stromversorgung und die Verkabelung der einzelnen Komponenten erklärt.
 
-God gave you this gift of imagination. Use it. Use your imagination, let it go. Put your feelings into it, your heart, it's your world. There's not a thing in the world wrong with washing your brush. Happy painting, God bless. All those little son of a guns.
+### Motorsteuerung und Regelungstechnik
 
-I sincerely wish for you every possible joy life could bring. Everybody needs a friend. That's crazy.
+In diesem Kapitel werden die Grundlagen der Motorsteuerung erklärt. Dabei werden die Steuerung von Geschwindigkeit und Position sowie die Kalibrierung der Motoren behandelt.
 
-If you don't like it - change it. It's your world. Isn't it great to do something you can't fail at? Play with the angles. See how easy it is to create a little tree right in your world. This piece of canvas is your world. This painting comes right out of your heart.
+### Greifen und Transportieren von Objekten
 
+Hier werden die Grundlagen des Greifens in der Robotik behandelt. Dabei wird erklärt, wie Objekte aufgenommen, festgehalten und sicher transportiert werden können.
 
+#### Greifmechanismen
 
+In diesem Kapitel werden die Funktionsweise und die verschiedenen Möglichkeiten zur Ansteuerung eines Greifmechanismus beschrieben.
 
+#### Koordination der Bewegungen
+
+Hier wird erklärt, wie mehrere Motoren zusammenarbeiten müssen, um einen vollständigen Greif- und Transportvorgang auszuführen.
+
+### Zusammenspiel von Hardware und Software
+
+Hier wird beschrieben, wie die Software mit den elektronischen Komponenten kommuniziert und dadurch die Bewegungen des Roboters steuert.
+
+### Elektronischer Aufbau von PIB
+
+Hier wird der praktische Aufbau der elektronischen Komponenten beschrieben. Dabei werden die einzelnen Bauteile und deren Integration in den Roboter dokumentiert.
+
+#### Verkabelung und Stromversorgung
+
+In diesem Kapitel wird gezeigt, wie die elektronischen Komponenten miteinander verbunden und mit Strom versorgt werden.
+
+### Inbetriebnahme der Motoren
+
+Hier wird die erste Inbetriebnahme der Motoren beschrieben und überprüft, ob diese korrekt angesteuert werden können.
+
+#### Testen und Kalibrieren der Motoren
+
+Die einzelnen Motoren werden getestet und auf ihre korrekte Bewegungsrichtung und Position überprüft. Anschließend werden notwendige Kalibrierungen durchgeführt.
+
+### Entwicklung der Motorsteuerung
+
+In diesem Kapitel wird die eigene Steuerung zur Ansteuerung und Koordination der Motoren entwickelt und umgesetzt.
+
+#### Programmierung der Motoransteuerung
+
+Hier wird die praktische Umsetzung der Motorsteuerung beschrieben.
+
+#### Codebeispiele Cerebra
+
+[Freier Bereich für eigene Codebeispiele]
+
+### Entwicklung der Greif- und Transportsteuerung
+
+Hier wird die Steuerung für das Greifen und Transportieren von Objekten entwickelt und praktisch umgesetzt.
+
+#### Ansteuerung des Greifmechanismus
+
+In diesem Kapitel wird beschrieben, wie der Greifer durch die Motoren geöffnet und geschlossen wird.
+
+#### Umsetzung eines Greifvorgangs
+
+Hier wird ein vollständiger Greifvorgang entwickelt und getestet, bei dem der Roboter ein Objekt selbstständig aufnehmen soll.
+
+#### Transportieren und Ablegen von Objekten
+
+In diesem Kapitel wird die Bewegung zum Transportieren und anschließenden Ablegen eines Objekts umgesetzt.
+
+### Testen und Optimieren der Funktionen
+
+Hier werden die entwickelten Funktionen getestet und auf ihre Zuverlässigkeit überprüft. Auftretende Fehler werden analysiert und Verbesserungen durchgeführt.
+
+### Auswertung der Ergebnisse
+
+In diesem Kapitel werden die Ergebnisse der praktischen Arbeit zusammengefasst und bewertet. Dabei wird überprüft, ob die Motorsteuerung sowie das Greifen und Transportieren von Objekten erfolgreich umgesetzt wurden.
